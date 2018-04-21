@@ -1,0 +1,10 @@
+### Necessário ter o node, npm instalados
+
+## Executar os comandos 
+
+### npm install 
+
+### npm run start
+
+#### Acessar url *localhost:3000/* para gráfico geral.
+#### Acessar url *localhost:3000/pv* para gráfico específico do PV.
